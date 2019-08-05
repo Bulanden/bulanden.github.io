@@ -16,7 +16,7 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: bulanden/bulanden.github.io
-github_url: http://github.com/bulanden
+github_url: https://github.com/bulanden
 url: http://www.bulanden.com
 enforce_ssl: ityouknow.com
 
